@@ -9,7 +9,7 @@
 
 1. Клонируйте проект на свой компьютер:
 
-git clone https://github.com/MariaMMS1984/react-mesto-api-full-gha.git
+git clone https://github.com/MariaMMS1984/react-mesto-auth.git
 
 2. Установите зависимости:
 
@@ -17,7 +17,7 @@ npm install
 
 3. Для локальной разработки используйте:
 
-npm run dev
+npm run start
 
 4. Для сборки проекта:
 
