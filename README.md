@@ -30,24 +30,11 @@ npm run build.
 - открытие полноразмерных фотографий карточек.
 
 ## Стек технологий:
-- HTML5;
-- CSS:
-   flexbox,
-  grid Layout,
-  positioning,
-  adaptive UI,
-  media Queries;
 - JavaScript;
-- React (функциональные компоненты и хуки);
-- Webpack;
-- Node.js;
-- Express.js;
-- MongodDB;
-- сервер на Ubuntu в Яндекс.Облаке;
-- ssh-ключи для доступа к серверу;
-- обновление кода на сервере через Git;
-- менеджер процессов на сервере pm2;
-- SSL-сертификаты.
+- React: React Router,
+защищенные маршруты,
+авторизация через JWT,
+работа с Local Storage.
 
 ## Статус проекта:
 ✅ Завершен
